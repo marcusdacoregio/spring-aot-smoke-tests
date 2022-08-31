@@ -1,0 +1,3717 @@
+[
+  {
+    "name":"org.apache.xml.security.algorithms.implementations.SignatureBaseRSA$SignatureRSASHA256",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.apache.xml.security.c14n.implementations.Canonicalizer20010315ExclOmitComments",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.apache.xml.security.transforms.implementations.TransformC14NExclusive",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.apache.xml.security.transforms.implementations.TransformEnvelopedSignature",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.core.criterion.EntityIdCriterion"
+  },
+  {
+    "name":"org.opensaml.core.xml.schema.impl.XSAnyBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.core.xml.schema.impl.XSAnyMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.core.xml.schema.impl.XSAnyUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.core.xml.schema.impl.XSBase64BinaryBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.core.xml.schema.impl.XSBase64BinaryMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.core.xml.schema.impl.XSBase64BinaryUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.core.xml.schema.impl.XSBooleanBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.core.xml.schema.impl.XSBooleanMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.core.xml.schema.impl.XSBooleanUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.core.xml.schema.impl.XSDateTimeBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.core.xml.schema.impl.XSDateTimeMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.core.xml.schema.impl.XSDateTimeUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.core.xml.schema.impl.XSIntegerBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.core.xml.schema.impl.XSIntegerMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.core.xml.schema.impl.XSIntegerUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.core.xml.schema.impl.XSQNameBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.core.xml.schema.impl.XSQNameMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.core.xml.schema.impl.XSQNameUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.core.xml.schema.impl.XSStringBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.core.xml.schema.impl.XSStringMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.core.xml.schema.impl.XSStringUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.core.xml.schema.impl.XSURIBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.core.xml.schema.impl.XSURIMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.core.xml.schema.impl.XSURIUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.idpdisco.impl.DiscoveryResponseBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.reqattr.impl.RequestedAttributesBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.reqattr.impl.RequestedAttributesMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.reqattr.impl.RequestedAttributesUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml1md.impl.SourceIDBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2alg.impl.DigestMethodBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2alg.impl.DigestMethodMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2alg.impl.DigestMethodUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2alg.impl.SigningMethodBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2alg.impl.SigningMethodMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2alg.impl.SigningMethodUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2aslo.impl.AsynchronousBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2aslo.impl.AsynchronousMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2aslo.impl.AsynchronousUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2cb.impl.ChannelBindingsBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2cb.impl.ChannelBindingsMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2cb.impl.ChannelBindingsUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2delrestrict.impl.DelegateBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2delrestrict.impl.DelegateMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2delrestrict.impl.DelegateUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2delrestrict.impl.DelegationRestrictionTypeBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2delrestrict.impl.DelegationRestrictionTypeMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2delrestrict.impl.DelegationRestrictionTypeUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2mdattr.impl.EntityAttributesBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2mdattr.impl.EntityAttributesMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2mdattr.impl.EntityAttributesUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2mdquery.impl.ActionNamespaceBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2mdquery.impl.AttributeQueryDescriptorTypeBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2mdquery.impl.AttributeQueryDescriptorTypeMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2mdquery.impl.AttributeQueryDescriptorTypeUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2mdquery.impl.AuthnQueryDescriptorTypeBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2mdquery.impl.AuthnQueryDescriptorTypeMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2mdquery.impl.AuthnQueryDescriptorTypeUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2mdquery.impl.AuthzDecisionQueryDescriptorTypeBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2mdquery.impl.AuthzDecisionQueryDescriptorTypeMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2mdquery.impl.AuthzDecisionQueryDescriptorTypeUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2mdreqinit.impl.RequestInitiatorBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2mdrpi.impl.PublicationBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2mdrpi.impl.PublicationInfoBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2mdrpi.impl.PublicationInfoMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2mdrpi.impl.PublicationInfoUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2mdrpi.impl.PublicationMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2mdrpi.impl.PublicationPathBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2mdrpi.impl.PublicationPathMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2mdrpi.impl.PublicationPathUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2mdrpi.impl.PublicationUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2mdrpi.impl.RegistrationInfoBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2mdrpi.impl.RegistrationInfoMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2mdrpi.impl.RegistrationInfoUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2mdrpi.impl.RegistrationPolicyBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2mdrpi.impl.UsagePolicyBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2mdui.impl.DescriptionBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2mdui.impl.DiscoHintsBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2mdui.impl.DiscoHintsMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2mdui.impl.DiscoHintsUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2mdui.impl.DisplayNameBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2mdui.impl.DomainHintBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2mdui.impl.GeolocationHintBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2mdui.impl.IPHintBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2mdui.impl.InformationURLBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2mdui.impl.KeywordsBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2mdui.impl.KeywordsMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2mdui.impl.KeywordsUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2mdui.impl.LogoBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2mdui.impl.LogoMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2mdui.impl.LogoUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2mdui.impl.PrivacyStatementURLBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2mdui.impl.UIInfoBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2mdui.impl.UIInfoMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.saml2mdui.impl.UIInfoUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.samlec.impl.EncTypeBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.samlec.impl.GeneratedKeyBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.samlec.impl.GeneratedKeyMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.samlec.impl.GeneratedKeyUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.samlec.impl.SessionKeyBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.samlec.impl.SessionKeyMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.samlec.impl.SessionKeyUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.ext.samlpthrpty.impl.RespondToBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.ActionBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.ActionMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.ActionUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.AdviceBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.AdviceMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.AdviceUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.AssertionArtifactBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.AssertionBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.AssertionIDReferenceBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.AssertionMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.AssertionUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.AttributeBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.AttributeDesignatorBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.AttributeDesignatorMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.AttributeDesignatorUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.AttributeMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.AttributeQueryBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.AttributeQueryMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.AttributeQueryUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.AttributeStatementBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.AttributeStatementMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.AttributeStatementUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.AttributeUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.AttributeValueBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.AudienceBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.AudienceRestrictionConditionBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.AudienceRestrictionConditionMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.AudienceRestrictionConditionUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.AuthenticationQueryBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.AuthenticationQueryMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.AuthenticationQueryUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.AuthenticationStatementBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.AuthenticationStatementMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.AuthenticationStatementUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.AuthorityBindingBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.AuthorityBindingMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.AuthorityBindingUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.AuthorizationDecisionQueryBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.AuthorizationDecisionQueryMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.AuthorizationDecisionQueryUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.AuthorizationDecisionStatementBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.AuthorizationDecisionStatementMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.AuthorizationDecisionStatementUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.ConditionsBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.ConditionsMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.ConditionsUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.ConfirmationMethodBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.DoNotCacheConditionBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.DoNotCacheConditionMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.DoNotCacheConditionUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.EvidenceBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.EvidenceMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.EvidenceUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.NameIdentifierBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.NameIdentifierMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.NameIdentifierUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.RequestBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.RequestMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.RequestUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.RespondWithBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.ResponseBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.ResponseMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.ResponseUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.StatusBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.StatusCodeBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.StatusCodeMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.StatusCodeUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.StatusMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.StatusMessageBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.StatusUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.SubjectBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.SubjectConfirmationBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.SubjectConfirmationDataBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.SubjectConfirmationMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.SubjectConfirmationUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.SubjectLocalityBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.SubjectLocalityMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.SubjectLocalityUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.SubjectMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml1.core.impl.SubjectUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.ActionBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.ActionMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.ActionUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.AdviceBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.AdviceMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.AdviceUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.ArtifactBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.ArtifactResolveBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.ArtifactResolveMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.ArtifactResolveUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.ArtifactResponseBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.ArtifactResponseMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.ArtifactResponseUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.AssertionBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.AssertionIDRefBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.AssertionIDRequestBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.AssertionIDRequestMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.AssertionIDRequestUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.AssertionMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.AssertionURIRefBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.AssertionUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.AttributeBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.AttributeMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.AttributeQueryBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.AttributeQueryMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.AttributeQueryUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.AttributeStatementBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.AttributeStatementMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.AttributeStatementUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.AttributeUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.AttributeValueBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.AudienceBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.AudienceRestrictionBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.AudienceRestrictionMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.AudienceRestrictionUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.AuthenticatingAuthorityBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.AuthnContextBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.AuthnContextClassRefBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.AuthnContextDeclBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.AuthnContextDeclRefBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.AuthnContextMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.AuthnContextUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.AuthnQueryBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.AuthnQueryMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.AuthnQueryUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.AuthnRequestBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.AuthnRequestMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.AuthnRequestUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.AuthnStatementBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.AuthnStatementMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.AuthnStatementUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.AuthzDecisionQueryBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.AuthzDecisionQueryMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.AuthzDecisionQueryUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.AuthzDecisionStatementBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.AuthzDecisionStatementMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.AuthzDecisionStatementUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.ConditionsBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.ConditionsMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.ConditionsUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.EncryptedAssertionBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.EncryptedAssertionMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.EncryptedAssertionUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.EncryptedAttributeBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.EncryptedAttributeMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.EncryptedAttributeUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.EncryptedIDBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.EncryptedIDMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.EncryptedIDUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.EvidenceBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.EvidenceMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.EvidenceUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.ExtensionsBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.ExtensionsMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.ExtensionsUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.GetCompleteBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.IDPEntryBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.IDPEntryMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.IDPEntryUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.IDPListBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.IDPListMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.IDPListUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.IssuerBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.KeyInfoConfirmationDataTypeBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.LogoutRequestBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.LogoutRequestMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.LogoutRequestUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.LogoutResponseBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.LogoutResponseMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.LogoutResponseUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.ManageNameIDRequestBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.ManageNameIDRequestMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.ManageNameIDRequestUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.ManageNameIDResponseBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.ManageNameIDResponseMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.ManageNameIDResponseUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.NameIDBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.NameIDMappingRequestBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.NameIDMappingRequestMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.NameIDMappingRequestUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.NameIDMappingResponseBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.NameIDMappingResponseMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.NameIDMappingResponseUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.NameIDPolicyBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.NameIDPolicyMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.NameIDPolicyUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.NameIDTypeMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.NameIDTypeUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.NewEncryptedIDBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.NewEncryptedIDMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.NewEncryptedIDUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.NewIDBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.OneTimeUseBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.OneTimeUseMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.OneTimeUseUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.ProxyRestrictionBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.ProxyRestrictionMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.ProxyRestrictionUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.RequestedAuthnContextBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.RequestedAuthnContextMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.RequestedAuthnContextUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.RequesterIDBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.ResponseBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.ResponseMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.ResponseUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.ScopingBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.ScopingMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.ScopingUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.SessionIndexBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.StatusBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.StatusCodeBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.StatusCodeMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.StatusCodeUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.StatusDetailBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.StatusDetailMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.StatusDetailUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.StatusMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.StatusMessageBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.StatusUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.SubjectBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.SubjectConfirmationBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.SubjectConfirmationDataBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.SubjectConfirmationDataMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.SubjectConfirmationDataUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.SubjectConfirmationMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.SubjectConfirmationUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.SubjectLocalityBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.SubjectLocalityMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.SubjectLocalityUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.SubjectMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.SubjectUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.TerminateBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.TerminateMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.core.impl.TerminateUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.ecp.impl.RelayStateBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.ecp.impl.RelayStateMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.ecp.impl.RelayStateUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.ecp.impl.RequestAuthenticatedBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.ecp.impl.RequestAuthenticatedMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.ecp.impl.RequestAuthenticatedUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.ecp.impl.RequestBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.ecp.impl.RequestMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.ecp.impl.RequestUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.ecp.impl.ResponseBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.ecp.impl.ResponseMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.ecp.impl.ResponseUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.ecp.impl.SubjectConfirmationBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.ecp.impl.SubjectConfirmationMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.ecp.impl.SubjectConfirmationUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.AdditionalMetadataLocationBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.AdditionalMetadataLocationMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.AdditionalMetadataLocationUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.AffiliateMemberBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.AffiliationDescriptorBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.AffiliationDescriptorMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.AffiliationDescriptorUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.ArtifactResolutionServiceBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.AssertionConsumerServiceBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.AssertionIDRequestServiceBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.AttributeAuthorityDescriptorBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.AttributeAuthorityDescriptorMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.AttributeAuthorityDescriptorUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.AttributeConsumingServiceBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.AttributeConsumingServiceMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.AttributeConsumingServiceUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.AttributeProfileBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.AttributeServiceBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.AuthnAuthorityDescriptorBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.AuthnAuthorityDescriptorMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.AuthnAuthorityDescriptorUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.AuthnQueryServiceBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.AuthzServiceBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.CompanyBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.ContactPersonBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.ContactPersonMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.ContactPersonUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.EmailAddressBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.EncryptionMethodBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.EndpointMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.EndpointUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.EntitiesDescriptorBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.EntitiesDescriptorMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.EntitiesDescriptorUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.EntityDescriptorBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.EntityDescriptorMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.EntityDescriptorUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.ExtensionsBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.ExtensionsMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.ExtensionsUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.GivenNameBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.IDPSSODescriptorBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.IDPSSODescriptorMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.IDPSSODescriptorUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.IndexedEndpointMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.IndexedEndpointUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.KeyDescriptorBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.KeyDescriptorMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.KeyDescriptorUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.LocalizedNameMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.LocalizedNameUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.LocalizedURIMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.LocalizedURIUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.ManageNameIDServiceBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.NameIDFormatBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.NameIDMappingServiceBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.OrganizationBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.OrganizationDisplayNameBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.OrganizationMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.OrganizationNameBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.OrganizationURLBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.OrganizationUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.PDPDescriptorBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.PDPDescriptorMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.PDPDescriptorUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.RequestedAttributeBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.RequestedAttributeMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.RequestedAttributeUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.SPSSODescriptorBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.SPSSODescriptorMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.SPSSODescriptorUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.ServiceDescriptionBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.ServiceNameBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.SingleLogoutServiceBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.SingleSignOnServiceBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.SurNameBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.saml.saml2.metadata.impl.TelephoneNumberBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.security.credential.criteria.impl.EvaluableEntityIDCredentialCriterion",
+    "methods":[{"name":"<init>","parameterTypes":["org.opensaml.core.criterion.EntityIdCriterion"] }]
+  },
+  {
+    "name":"org.opensaml.security.credential.criteria.impl.EvaluableKeyAlgorithmCredentialCriterion",
+    "methods":[{"name":"<init>","parameterTypes":["org.opensaml.security.criteria.KeyAlgorithmCriterion"] }]
+  },
+  {
+    "name":"org.opensaml.security.credential.criteria.impl.EvaluableKeyLengthCredentialCriterion"
+  },
+  {
+    "name":"org.opensaml.security.credential.criteria.impl.EvaluableKeyNameCredentialCriterion"
+  },
+  {
+    "name":"org.opensaml.security.credential.criteria.impl.EvaluablePublicKeyCredentialCriterion"
+  },
+  {
+    "name":"org.opensaml.security.credential.criteria.impl.EvaluableUsageCredentialCriterion",
+    "methods":[{"name":"<init>","parameterTypes":["org.opensaml.security.criteria.UsageCriterion"] }]
+  },
+  {
+    "name":"org.opensaml.security.credential.criteria.impl.EvaluableX509DigestCredentialCriterion"
+  },
+  {
+    "name":"org.opensaml.security.credential.criteria.impl.EvaluableX509IssuerSerialCredentialCriterion"
+  },
+  {
+    "name":"org.opensaml.security.credential.criteria.impl.EvaluableX509SubjectKeyIdentifierCredentialCriterion"
+  },
+  {
+    "name":"org.opensaml.security.credential.criteria.impl.EvaluableX509SubjectNameCredentialCriterion"
+  },
+  {
+    "name":"org.opensaml.security.criteria.KeyAlgorithmCriterion"
+  },
+  {
+    "name":"org.opensaml.security.criteria.KeyLengthCriterion"
+  },
+  {
+    "name":"org.opensaml.security.criteria.KeyNameCriterion"
+  },
+  {
+    "name":"org.opensaml.security.criteria.PublicKeyCriterion"
+  },
+  {
+    "name":"org.opensaml.security.criteria.UsageCriterion"
+  },
+  {
+    "name":"org.opensaml.security.x509.X509DigestCriterion"
+  },
+  {
+    "name":"org.opensaml.security.x509.X509IssuerSerialCriterion"
+  },
+  {
+    "name":"org.opensaml.security.x509.X509SubjectKeyIdentifierCriterion"
+  },
+  {
+    "name":"org.opensaml.security.x509.X509SubjectNameCriterion"
+  },
+  {
+    "name":"org.opensaml.soap.soap11.impl.BodyBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.soap11.impl.BodyMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.soap11.impl.BodyUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.soap11.impl.DetailBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.soap11.impl.DetailMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.soap11.impl.DetailUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.soap11.impl.EnvelopeBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.soap11.impl.EnvelopeMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.soap11.impl.EnvelopeUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.soap11.impl.FaultActorBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.soap11.impl.FaultBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.soap11.impl.FaultCodeBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.soap11.impl.FaultMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.soap11.impl.FaultStringBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.soap11.impl.FaultUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.soap11.impl.HeaderBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.soap11.impl.HeaderMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.soap11.impl.HeaderUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.ActionBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.ActionMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.ActionUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.AddressBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.AddressMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.AddressUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.EndpointReferenceBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.EndpointReferenceMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.EndpointReferenceUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.FaultToBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.FaultToMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.FaultToUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.FromBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.FromMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.FromUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.MessageIDBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.MessageIDMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.MessageIDUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.MetadataBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.MetadataMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.MetadataUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.ProblemActionBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.ProblemActionMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.ProblemActionUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.ProblemHeaderQNameBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.ProblemHeaderQNameMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.ProblemHeaderQNameUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.ProblemIRIBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.ProblemIRIMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.ProblemIRIUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.ReferenceParametersBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.ReferenceParametersMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.ReferenceParametersUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.RelatesToBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.RelatesToMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.RelatesToUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.ReplyToBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.ReplyToMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.ReplyToUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.RetryAfterBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.RetryAfterMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.RetryAfterUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.SoapActionBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.SoapActionMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.SoapActionUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.ToBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.ToMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsaddressing.impl.ToUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsfed.impl.AddressBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsfed.impl.AddressMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsfed.impl.AddressUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsfed.impl.AppliesToBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsfed.impl.AppliesToMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsfed.impl.AppliesToUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsfed.impl.EndPointReferenceBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsfed.impl.EndPointReferenceMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsfed.impl.EndPointReferenceUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsfed.impl.RequestSecurityTokenResponseBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsfed.impl.RequestSecurityTokenResponseMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsfed.impl.RequestSecurityTokenResponseUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsfed.impl.RequestedSecurityTokenBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsfed.impl.RequestedSecurityTokenMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wsfed.impl.RequestedSecurityTokenUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wspolicy.impl.AllBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wspolicy.impl.AllMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wspolicy.impl.AllUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wspolicy.impl.AppliesToBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wspolicy.impl.AppliesToMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wspolicy.impl.AppliesToUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wspolicy.impl.ExactlyOneBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wspolicy.impl.ExactlyOneMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wspolicy.impl.ExactlyOneUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wspolicy.impl.PolicyAttachmentBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wspolicy.impl.PolicyAttachmentMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wspolicy.impl.PolicyAttachmentUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wspolicy.impl.PolicyBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wspolicy.impl.PolicyMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wspolicy.impl.PolicyReferenceBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wspolicy.impl.PolicyReferenceMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wspolicy.impl.PolicyReferenceUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wspolicy.impl.PolicyUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.BinarySecurityTokenBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.BinarySecurityTokenMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.BinarySecurityTokenUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.CreatedBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.CreatedMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.CreatedUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.EmbeddedBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.EmbeddedMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.EmbeddedUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.EncryptedHeaderBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.EncryptedHeaderMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.EncryptedHeaderUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.ExpiresBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.ExpiresMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.ExpiresUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.IterationBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.IterationMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.IterationUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.KeyIdentifierBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.KeyIdentifierMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.KeyIdentifierUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.NonceBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.NonceMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.NonceUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.PasswordBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.PasswordMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.PasswordUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.ReferenceBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.ReferenceMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.ReferenceUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.SaltBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.SaltMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.SaltUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.SecurityBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.SecurityMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.SecurityTokenReferenceBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.SecurityTokenReferenceMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.SecurityTokenReferenceUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.SecurityUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.SignatureConfirmationBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.SignatureConfirmationMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.SignatureConfirmationUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.TimestampBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.TimestampMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.TimestampUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.TransformationParametersBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.TransformationParametersMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.TransformationParametersUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.UsernameBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.UsernameMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.UsernameTokenBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.UsernameTokenMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.UsernameTokenUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wssecurity.impl.UsernameUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.AllowPostdatingBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.AllowPostdatingMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.AllowPostdatingUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.AuthenticationTypeBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.AuthenticationTypeMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.AuthenticationTypeUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.AuthenticatorBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.AuthenticatorMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.AuthenticatorUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.BinaryExchangeBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.BinaryExchangeMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.BinaryExchangeUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.BinarySecretBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.BinarySecretMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.BinarySecretUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.CancelTargetBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.CancelTargetMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.CancelTargetUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.CanonicalizationAlgorithmBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.CanonicalizationAlgorithmMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.CanonicalizationAlgorithmUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.ChallengeBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.ChallengeMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.ChallengeUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.ClaimsBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.ClaimsMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.ClaimsUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.CodeBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.CodeMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.CodeUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.CombinedHashBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.CombinedHashMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.CombinedHashUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.ComputedKeyAlgorithmBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.ComputedKeyAlgorithmMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.ComputedKeyAlgorithmUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.ComputedKeyBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.ComputedKeyMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.ComputedKeyUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.DelegatableBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.DelegatableMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.DelegatableUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.DelegateToBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.DelegateToMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.DelegateToUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.EncryptWithBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.EncryptWithMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.EncryptWithUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.EncryptionAlgorithmBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.EncryptionAlgorithmMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.EncryptionAlgorithmUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.EncryptionBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.EncryptionMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.EncryptionUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.EntropyBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.EntropyMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.EntropyUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.ForwardableBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.ForwardableMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.ForwardableUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.IssuedTokensBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.IssuedTokensMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.IssuedTokensUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.IssuerBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.IssuerMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.IssuerUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.KeyExchangeTokenBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.KeyExchangeTokenMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.KeyExchangeTokenUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.KeySizeBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.KeySizeMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.KeySizeUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.KeyTypeBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.KeyTypeMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.KeyTypeUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.KeyWrapAlgorithmBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.KeyWrapAlgorithmMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.KeyWrapAlgorithmUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.LifetimeBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.LifetimeMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.LifetimeUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.OnBehalfOfBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.OnBehalfOfMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.OnBehalfOfUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.ParticipantBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.ParticipantMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.ParticipantUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.ParticipantsBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.ParticipantsMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.ParticipantsUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.PrimaryBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.PrimaryMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.PrimaryUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.ProofEncryptionBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.ProofEncryptionMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.ProofEncryptionUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.ReasonBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.ReasonMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.ReasonUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.RenewTargetBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.RenewTargetMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.RenewTargetUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.RenewingBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.RenewingMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.RenewingUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.RequestKETBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.RequestKETMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.RequestKETUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.RequestSecurityTokenBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.RequestSecurityTokenCollectionBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.RequestSecurityTokenCollectionMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.RequestSecurityTokenCollectionUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.RequestSecurityTokenMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.RequestSecurityTokenResponseBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.RequestSecurityTokenResponseCollectionBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.RequestSecurityTokenResponseCollectionMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.RequestSecurityTokenResponseCollectionUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.RequestSecurityTokenResponseMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.RequestSecurityTokenResponseUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.RequestSecurityTokenUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.RequestTypeBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.RequestTypeMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.RequestTypeUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.RequestedAttachedReferenceBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.RequestedAttachedReferenceMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.RequestedAttachedReferenceUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.RequestedProofTokenBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.RequestedProofTokenMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.RequestedProofTokenUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.RequestedSecurityTokenBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.RequestedSecurityTokenMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.RequestedSecurityTokenUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.RequestedTokenCancelledBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.RequestedTokenCancelledMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.RequestedTokenCancelledUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.RequestedUnattachedReferenceBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.RequestedUnattachedReferenceMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.RequestedUnattachedReferenceUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.SignChallengeBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.SignChallengeMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.SignChallengeResponseBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.SignChallengeResponseMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.SignChallengeResponseUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.SignChallengeUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.SignWithBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.SignWithMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.SignWithUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.SignatureAlgorithmBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.SignatureAlgorithmMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.SignatureAlgorithmUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.StatusBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.StatusMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.StatusUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.TokenTypeBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.TokenTypeMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.TokenTypeUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.UseKeyBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.UseKeyMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.UseKeyUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.ValidateTargetBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.ValidateTargetMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.soap.wstrust.impl.ValidateTargetUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.AgreementMethodBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.AgreementMethodMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.AgreementMethodUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.CarriedKeyNameBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.CipherDataBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.CipherDataMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.CipherDataUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.CipherReferenceBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.CipherReferenceMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.CipherReferenceUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.CipherValueBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.ConcatKDFParamsBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.ConcatKDFParamsMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.ConcatKDFParamsUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.DHKeyValueBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.DHKeyValueMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.DHKeyValueUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.DataReferenceBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.DataReferenceMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.DataReferenceUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.DerivedKeyBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.DerivedKeyMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.DerivedKeyNameBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.DerivedKeyUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.EncryptedDataBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.EncryptedDataMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.EncryptedDataUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.EncryptedKeyBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.EncryptedKeyMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.EncryptedKeyUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.EncryptionMethodBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.EncryptionMethodMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.EncryptionMethodUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.EncryptionPropertiesBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.EncryptionPropertiesMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.EncryptionPropertiesUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.EncryptionPropertyBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.EncryptionPropertyMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.EncryptionPropertyUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.GeneratorBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.IterationCountBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.KANonceBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.KeyDerivationMethodBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.KeyDerivationMethodMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.KeyDerivationMethodUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.KeyLengthBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.KeyReferenceBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.KeyReferenceMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.KeyReferenceUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.KeySizeBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.MGFBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.MGFMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.MGFUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.MasterKeyNameBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.OAEPparamsBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.OriginatorKeyInfoBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.OriginatorKeyInfoMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.OriginatorKeyInfoUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.OtherSourceBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.OtherSourceMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.OtherSourceUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.PBKDF2ParamsBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.PBKDF2ParamsMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.PBKDF2ParamsUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.PBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.PRFBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.PRFMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.PRFUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.PgenCounterBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.PublicBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.QBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.RecipientKeyInfoBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.RecipientKeyInfoMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.RecipientKeyInfoUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.ReferenceListBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.ReferenceListMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.ReferenceListUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.SaltBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.SaltMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.SaltUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.SeedBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.SpecifiedBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.TransformsBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.TransformsMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.encryption.impl.TransformsUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.CryptoBinaryBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.CryptoBinaryMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.CryptoBinaryUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.DEREncodedKeyValueBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.DEREncodedKeyValueMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.DEREncodedKeyValueUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.DSAKeyValueBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.DSAKeyValueMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.DSAKeyValueUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.DigestMethodBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.DigestMethodMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.DigestMethodUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.ECKeyValueBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.ECKeyValueMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.ECKeyValueUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.ExponentBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.GBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.JBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.KeyInfoBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.KeyInfoMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.KeyInfoReferenceBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.KeyInfoReferenceMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.KeyInfoReferenceUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.KeyInfoUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.KeyNameBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.KeyValueBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.KeyValueMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.KeyValueUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.MgmtDataBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.ModulusBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.NamedCurveBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.NamedCurveMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.NamedCurveUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.PBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.PGPDataBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.PGPDataMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.PGPDataUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.PGPKeyIDBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.PGPKeyPacketBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.PgenCounterBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.PublicKeyBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.QBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.RSAKeyValueBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.RSAKeyValueMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.RSAKeyValueUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.RetrievalMethodBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.RetrievalMethodMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.RetrievalMethodUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.SPKIDataBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.SPKIDataMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.SPKIDataUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.SPKISexpBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.SeedBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.SignatureBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.SignatureMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.SignatureUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.TransformBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.TransformMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.TransformUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.TransformsBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.TransformsMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.TransformsUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.X509CRLBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.X509CertificateBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.X509DataBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.X509DataMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.X509DataUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.X509DigestBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.X509DigestMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.X509DigestUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.X509IssuerNameBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.X509IssuerSerialBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.X509IssuerSerialMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.X509IssuerSerialUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.X509SKIBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.X509SerialNumberBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.X509SerialNumberMarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.X509SerialNumberUnmarshaller",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.X509SubjectNameBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.XPathBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"org.opensaml.xmlsec.signature.impl.YBuilder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  }
+]
