@@ -81,6 +81,19 @@ You can now consume those snapshots using `-PfromMavenLocal` which takes a comma
 
 The preceding example will run the `rest-template` smoke test, resolving Spring Framework and Spring Data modules from your local Maven cache.
 
+=== Override dependency versions for the whole group
+
+You can override the versions of dependencies for the whole group.
+This can be useful when you are running the tests from another project's CI pipeline and the version in Maven Local cache does not match the Smoke Test dependency version.
+
+You can achieve that by doing:
+
+[source,]
+----
+./gradlew build -p security -PfromMavenLocal=org.springframework.security -PoverrideGroupVersion=org.springframework.security:6.2.0-SNAPSHOT
+----
+
+[[override-dependency-version]]
 === Override a dependency version
 
 As the test doesn't use the Spring Dependency Management Plugin, you can't use the `ext['...'] = '...'` method.

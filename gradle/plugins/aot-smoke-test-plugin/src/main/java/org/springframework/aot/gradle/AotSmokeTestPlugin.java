@@ -17,10 +17,12 @@
 package org.springframework.aot.gradle;
 
 import java.net.URI;
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Locale;
 import java.util.Map;
 import java.util.Set;
+import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 import com.avast.gradle.dockercompose.ComposeExtension;
@@ -88,6 +90,20 @@ public class AotSmokeTestPlugin implements Plugin<Project> {
 			project.getRepositories()
 				.mavenLocal(
 						(mavenLocal) -> mavenLocal.content((content) -> includedGroups.forEach(content::includeGroup)));
+		}
+		if (project.hasProperty("overrideGroupVersion")) {
+			String overrideGroupVersion = project.property("overrideGroupVersion").toString();
+			Map<String, String> versionByGroup = Arrays.stream(overrideGroupVersion.split(","))
+					.map((groupVersion) -> groupVersion.split(":"))
+					.collect(Collectors.toMap((parts) -> parts[0], (parts) -> parts[1]));
+			project.getConfigurations().all((configuration) ->
+				configuration.getResolutionStrategy().eachDependency(dependencyResolveDetails -> {
+					String group = dependencyResolveDetails.getRequested().getGroup();
+					if (versionByGroup.containsKey(group)) {
+						dependencyResolveDetails.useVersion(versionByGroup.get(group));
+					}
+				})
+			);
 		}
 		project.getRepositories().mavenCentral();
 		project.getRepositories().maven((repo) -> {
