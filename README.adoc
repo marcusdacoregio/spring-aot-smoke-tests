@@ -69,6 +69,7 @@ Gradle https://docs.gradle.org/current/userguide/composite_builds.html#command_l
 
 _Hint: You can use `--include-build` multiple times._
 
+[[from_maven_local]]
 ==== Your project uses Maven or --include-build does not work
 
 First, install the snapshots into your local Maven cache.
@@ -112,3 +113,14 @@ dependencies {
 ----
 
 This works for direct and transitive dependencies.
+
+=== Force Snapshots
+
+If you want to force the use of snapshots for `org.springframework.*` dependencies, you can use the `forceSnapshots` property:
+
+[source,]
+----
+./gradlew :boot:actuator-webmvc:build -PforceSnapshots
+----
+
+For example, if Spring Boot is using Spring Security 3.2.0-RC2, it will be resolved as 3.2.0-SNAPSHOT.

@@ -91,6 +91,19 @@ public class AotSmokeTestPlugin implements Plugin<Project> {
 				.mavenLocal(
 						(mavenLocal) -> mavenLocal.content((content) -> includedGroups.forEach(content::includeGroup)));
 		}
+		if (project.hasProperty("forceSnapshots")) {
+			project.getConfigurations().all((configuration) ->
+					configuration.getResolutionStrategy().eachDependency(dependency -> {
+						boolean isSnapshot = dependency.getRequested().getVersion() != null
+								&& dependency.getRequested().getVersion().endsWith("-SNAPSHOT");
+						if (dependency.getRequested().getGroup().startsWith("org.springframework") && !isSnapshot) {
+							String[] versionParts = dependency.getRequested().getVersion().split("-");
+							String snapshotVersion = versionParts[0] + "-SNAPSHOT";
+							dependency.useVersion(snapshotVersion);
+						}
+					})
+			);
+		}
 		if (project.hasProperty("overrideGroupVersion")) {
 			String overrideGroupVersion = project.property("overrideGroupVersion").toString();
 			Map<String, String> versionByGroup = Arrays.stream(overrideGroupVersion.split(","))
