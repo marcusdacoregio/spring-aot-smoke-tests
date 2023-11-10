@@ -2,6 +2,24 @@
 :toc:
 :toc-title: Projects
 
+== Authorization-server
+
+[%header,cols="5"]
+|===
+h|Smoke Test
+h|appTest
+h|nativeAppTest
+h|test
+h|nativeTest
+
+|security-oauth2-authorization-server
+|image:https://ci.spring.io/api/v1/teams/spring-aot-smoke-tests/pipelines/spring-aot-smoke-tests-3.0.x/jobs/security-oauth2-authorization-server-app-test/badge[link=https://ci.spring.io/teams/spring-aot-smoke-tests/pipelines/spring-aot-smoke-tests-3.0.x/jobs/security-oauth2-authorization-server-app-test]
+|image:https://ci.spring.io/api/v1/teams/spring-aot-smoke-tests/pipelines/spring-aot-smoke-tests-3.0.x/jobs/security-oauth2-authorization-server-native-app-test/badge[link=https://ci.spring.io/teams/spring-aot-smoke-tests/pipelines/spring-aot-smoke-tests-3.0.x/jobs/security-oauth2-authorization-server-native-app-test]
+|
+|
+
+|===
+
 == Batch
 
 [%header,cols="5"]
@@ -771,12 +789,6 @@ h|nativeTest
 |security-method
 |image:https://ci.spring.io/api/v1/teams/spring-aot-smoke-tests/pipelines/spring-aot-smoke-tests-3.0.x/jobs/security-method-app-test/badge[link=https://ci.spring.io/teams/spring-aot-smoke-tests/pipelines/spring-aot-smoke-tests-3.0.x/jobs/security-method-app-test]
 |image:https://ci.spring.io/api/v1/teams/spring-aot-smoke-tests/pipelines/spring-aot-smoke-tests-3.0.x/jobs/security-method-native-app-test/badge[link=https://ci.spring.io/teams/spring-aot-smoke-tests/pipelines/spring-aot-smoke-tests-3.0.x/jobs/security-method-native-app-test]
-|
-|
-
-|security-oauth2-authorization-server
-|image:https://ci.spring.io/api/v1/teams/spring-aot-smoke-tests/pipelines/spring-aot-smoke-tests-3.0.x/jobs/security-oauth2-authorization-server-app-test/badge[link=https://ci.spring.io/teams/spring-aot-smoke-tests/pipelines/spring-aot-smoke-tests-3.0.x/jobs/security-oauth2-authorization-server-app-test]
-|image:https://ci.spring.io/api/v1/teams/spring-aot-smoke-tests/pipelines/spring-aot-smoke-tests-3.0.x/jobs/security-oauth2-authorization-server-native-app-test/badge[link=https://ci.spring.io/teams/spring-aot-smoke-tests/pipelines/spring-aot-smoke-tests-3.0.x/jobs/security-oauth2-authorization-server-native-app-test]
 |
 |
 
