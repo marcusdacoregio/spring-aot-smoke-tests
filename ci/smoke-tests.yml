@@ -1,4 +1,9 @@
 groups:
+  - name: authorization-server
+    smoke_tests:
+     - name: security-oauth2-authorization-server
+       app_test: true
+       test: false
   - name: batch
     smoke_tests:
      - name: batch
@@ -355,9 +360,6 @@ groups:
        app_test: true
        test: true
      - name: security-method
-       app_test: true
-       test: false
-     - name: security-oauth2-authorization-server
        app_test: true
        test: false
      - name: security-oauth2-resource-server
